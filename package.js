@@ -3,7 +3,7 @@ Package.describe({
 });
 
 Npm.depends({
-    "imagemagick": "0.1.3"
+    "imagemagick"
 });
 
 Package.on_use(function (api) {
